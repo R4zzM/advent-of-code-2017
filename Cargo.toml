@@ -1,0 +1,6 @@
+[package]
+name = "advent_of_code_1"
+version = "0.1.0"
+authors = ["Rasmus Mattsson <rasmus.m.mattsson@gmail.com>"]
+
+[dependencies]
